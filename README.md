@@ -3,7 +3,7 @@
 # Этап 1: Базовые знания 
 ## 1. Алгоритмы и структуры
 
-СДЕЛААААААААААААААААААААААТЬ
+[гит](https://github.com/HeyBossy/algos_and_structure/tree/main)
 
 ## 2. Pyspark
 
