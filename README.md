@@ -1,9 +1,12 @@
 # ROAD-MAP-NLP
 
 # Этап 1: Базовые знания 
-## 1. Алгоритмы и структуры
+## 0. Алгоритмы и структуры
 
-[гит](https://github.com/HeyBossy/algos_and_structure/tree/main)
+[гит по алгосам](https://github.com/HeyBossy/algos_and_structure/tree/main)
+## 1. Программирование  на python
+
+[гит по курсу питона](https://github.com/HeyBossy/BasePython)
 
 ## 2. Pyspark
 
